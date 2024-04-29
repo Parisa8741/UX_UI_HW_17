@@ -4,7 +4,7 @@
     vertical-align: top;
 }
 
- logo {
+.div logo {
     width: 2%;
     padding: 1%;
     height: auto;
@@ -21,7 +21,7 @@ navigation ul {
 }
 
 /* Center images inside logo */
-.logo img {
+.log img {
     text-align: center;
 }
 
